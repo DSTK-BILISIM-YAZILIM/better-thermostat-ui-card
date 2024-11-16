@@ -3,6 +3,22 @@
     "version": "versiyon",
     "current": "şimdiki"
   },
+  "editor": {
+    "card": {
+      "climate": {
+        "disable_window": "Pencereyi devre dışı bırak",
+        "disable_summer": "Yaz mevsimini devre dışı bırak",
+        "disable_eco": "Eko'yu devre dışı bırak",
+        "disable_heat": "Isıyı devre dışı bırak",
+        "disable_off": "Devre dışı bırak kapalı",
+        "disable_menu": "Menüyü devre dışı bırak",
+        "disable_battery_warning": "Pil uyarısını devre dışı bırak",
+        "disable_buttons": "Artı/eksi düğmelerini devre dışı bırak",
+        "eco_temperature": "Eko sıcaklık",
+        "set_current_as_main": "Hedefi mevcut sıcaklık yerleriyle değiştir"
+      }
+    }
+  },
   "extra_states": {
     "window_open": "Pencere açık",
     "night_mode": "Gece modu",
